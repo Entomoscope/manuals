@@ -11,4 +11,5 @@
 | Assemblage LEDs UV            | [entomoscope-uv-leds-assembly.pdf](/assembly/entomoscope-uv-leds-assembly.pdf)                         | <img src="/images/uv-leds-assembly-05.png" width="150" height="150">             |
 | Assemblage micro déporté      | [entomoscope-deported-microphone-assembly.pdf](/assembly/entomoscope-deported-microphone-assembly.pdf) | <img src="/images/deported-microphone-assembly-00.png" width="150" height="150"> |
 | Assemblage caméra déportée    | [entomoscope-deported-camera-assembly.pdf](/assembly/entomoscope-deported-camera-assembly.pdf)         | <img src="/images/deported-camera-assembly-00.png" width="150" height="150">     |
+| Assemblage caméra et micro déportés    | [entomoscope-deported-camera-microphone-assembly.pdf](/assembly/entomoscope-deported-camera-microphone-assembly.pdf) | <img src="/images/deported-camera-microphone-assembly-00.jpg" width="150" height="150">     |
 | Assemblage caméra intégrée    | [entomoscope-embedded-camera-assembly.pdf](/assembly/entomoscope-embedded-camera-assembly.pdf)         | <img src="/images/embedded-camera-assembly-03.png" width="150" height="150">     |
